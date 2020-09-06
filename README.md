@@ -6,6 +6,8 @@ Quadros societários e de administradores das pessoas jurídicas brasileiras.<br
 Fonte original: Receita Federal do Brasil<br>
 Licença: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)<br>
 
+### 203.297.292 de registros.
+
 ### empresa.csv
 44.467.068 de registros.<br>
 cnpj<br>
