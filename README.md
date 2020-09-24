@@ -58,19 +58,6 @@ codigo_qualificacao_representante_legal<br>
 https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharingz<br>
 SHA512SUMS:6df2eb0281857dbc9cdc09bba58c32d92b08387ee73b9b869d05d26ec38cabc34d9cf9a6d3d681c491cff38513a13147d0c7207b63f583573aa32424bbe5f129
 
-### cnae_cnpj.csv - 101.394.871 de registros.
-cnpj<br>
-cnae<br>
-primaria<br>
-https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharing<br>
-SHA512SUMS:5b5c105fe008ae26683439b34c8502a6da741cfcf4159fd7d33f3c50d35ae7fc3b822d1012db22b4f752538ee7ffe42902f62bb49f532f41e799a293978702d1
-
-### cnae_secundaria.csv - 56.927.802 de registros.
-cnpj<br>
-cnae<br>
-https://drive.google.com/drive/folders/1NhpfbNxLZ3SFxmgHQfgW0QKObePsdf85?usp=sharing<br>
-SHA512SUMS:fc95a09ebc160d0a503f31c4279ea723b67b54c8dcaeda7143b1df34ff65c5f2b68754d590ad966e78a4b4abdbdff599a64114ed8303be3bc7646876e3a83ab6
-
 ### holding.csv - 507.551 de registros.
 holding_cnpj<br>
 holding_razao_social<br>
