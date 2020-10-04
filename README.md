@@ -43,27 +43,3 @@ situacao_especial<br>
 data_situacao_especial<br>
 https://mega.nz/file/KQ5DhQQA#ulBJQRqQfu9p1vPgyBdpxLgIUzF-T4YGCfpvUFsQJus<br>
 SHA512SUMS:3da3737b63e556000baf981017ece05e66dab1f755baf000e20c1797e189463966afa2f12a4977ab6e3a993f1a0e3e4619a182c61ab038868f6903dcfe9f5a12
-
-### socios.csv - 27.176.265 de registros.
-*cnpj<br>
-identificador_de_socio<br>
-nome_socio<br>
-cnpj_cpf_do_socio<br>
-codigo_qualificacao_socio<br>
-percentual_capital_social<br>
-data_entrada_sociedade<br>
-cpf_representante_legal<br>
-nome_representante_legal<br>
-codigo_qualificacao_representante_legal<br>
-https://mega.nz/file/fV4jhAzb#zVAxIa6nlzMB1yLgcA5JYh6BuiUAdHzFqzJyTWRIEYw<br>
-SHA512SUMS:6df2eb0281857dbc9cdc09bba58c32d92b08387ee73b9b869d05d26ec38cabc34d9cf9a6d3d681c491cff38513a13147d0c7207b63f583573aa32424bbe5f129
-
-### holding.csv - 507.551 de registros.
-holding_cnpj<br>
-holding_razao_social<br>
-*cnpj<br>
-*razao_social<br>
-codigo_qualificacao_socia<br>
-qualificacao_socia<br>
-https://mega.nz/file/3QwHUIwK#q7Ss5HkEZ4-1b6u9kpd4CVn7LZm5Qyv_Y3MBtsGuOgI<br>
-SHA512SUMS:5902e40b818284b46b41dca2beea8613a4ad8b45b0e2e4462f565d9623208703ba052b7fd99ba7311ee7526cf76d23a858fe9fdb06492c425afb54e17ae0307c
