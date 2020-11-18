@@ -25,7 +25,7 @@ https://metadados.capes.gov.br/index.php/catalog/165
 
 4357 rows × 32 columns
 
-# Carregamento dos dados CSV
+# Procedimento
 
 
 ```python
